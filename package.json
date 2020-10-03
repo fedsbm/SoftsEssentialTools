@@ -1,0 +1,19 @@
+{
+  "name": "softs.org.uk.essentialkit",
+  "version": "1.0.0",
+  "displayName": "Softs Essential Kit",
+  "description": "Kit with essential tools to develop a Unity project",
+  "keywords": [
+    "Interpolator",
+    "Essential",
+    "Kits",
+    "Easings"
+  ],
+  "author": {
+    "name": "Fernando Bonet",
+    "email": "fedsbm2@gmail.com",
+    "url": "softs.org.uk"
+  },
+  "type": "tool",
+  "hideInEditor": false
+}
